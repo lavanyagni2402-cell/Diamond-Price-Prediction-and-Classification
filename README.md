@@ -2,8 +2,6 @@
 
 A machine learning project that predicts the **price** of a diamond, classifies it as **Budget, Mid or Premium**, and groups diamonds into **market segments**, using its carat, cut, colour, clarity, depth and table.
 
-Made as the mini project for **Machine Learning Lab (AIM 3130)** at Manipal University Jaipur.
-
 ![App screenshot](images/app.png)
 
 ## What the project does
@@ -87,7 +85,3 @@ To run the analysis, open `diamond_price_prediction.ipynb` in Jupyter or VS Code
 ## Tech stack
 
 Python, pandas, NumPy, scikit-learn, Matplotlib, seaborn, Streamlit
-
-## Author
-
-Lavanya Agnihotri, B.Tech CSE (AI & ML), Manipal University Jaipur
